@@ -11,6 +11,3 @@ window.onload = function() {
         locationElement.innerHTML = 'Jaipur, ' + day + ' ' + month + ' ' + year;
     }
 };
-window.addEventListener("load", (event) => {
-  new cursoreffects.ghostCursor();
-});
